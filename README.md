@@ -1,8 +1,9 @@
 # Hi, I'm Charly 👋
 
-🎮 Game Developer  
-💻 Web Developer  
-🚀 Tech Enthusiast  
+<p align="center">
+  <img src="https://i.imgur.com/REG6ZDN.gif" width="500"/>
+</p>  
+💻 Web Developer    
 
 ---
 
@@ -14,8 +15,7 @@
 ---
 
 ## ⚡ Skills
-- HTML, CSS, JavaScript  
-- Game Development (Unity)  
+- HTML, CSS, PHP 
 
 ---
 
